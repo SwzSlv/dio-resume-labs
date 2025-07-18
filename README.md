@@ -5,4 +5,5 @@ Tópicos da aula:
 * Quais os tipos de contas Azure;
 * Definições e uso de cada conta disponível;
 * Página learn da Azure para estudos e preparos para certificações;
-* Visibilidade da home do portal e funcionalidades disponíveis.
+* Visibilidade da home do portal e funcionalidades disponíveis;
+* Localização dos serviços por categoria.
