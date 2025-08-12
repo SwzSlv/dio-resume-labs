@@ -15,3 +15,8 @@ Aula criando máquina virual e benefícios da computação na núvem
   * Na criação, focou-se muito na apresentação da disponíbilidade e o que ela significa na prática
   * Foi apontado as alternativas de escolhas de disponibilidades dadas pela GUI Azure
 * Apresentado cases de indisponibilidades de acordo com a experiência do(a) professor(a)
+
+* Aula: Criação de um Banco de dados
+
+Informado a importância de criar inicialmente uma instancia SQL via GUI, entender o passo a passo para aí então desenvolver o código de criação.
+- Ponto importante: a nomeação do host que armazenará nosso Banco, não vamos ter acesso mas para controle e organização, teremos essa etapa 
